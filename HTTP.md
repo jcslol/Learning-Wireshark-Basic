@@ -7,6 +7,7 @@ HTTP is an application layer protocol used for transmitting hypermedia (like HTM
 - Browsing websites
 - Transmitting files and data via web forms
 - API communication
+- cookies
 
 ## HTTP in Wireshark
 - HTTP traffic can be identified in Wireshark using the `http` display filter.
