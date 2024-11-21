@@ -2,7 +2,7 @@
 This repository contains notes, examples, and resources for learning network analysis with Wireshark.
 
 ## Protocols Covered
-1. [ICMP - For Ping](Notes/ICMP.md)
+1. [ICMP - For Ping](Learning-Wireshark-Basic/ICMP.md)
 2. [ARP - For MAC Address Resolution](Notes/ARP.md)
 3. [HTTP and Cookies](Notes/HTTP.md)
 4. [FTP and FTP-Data](Notes/FTP.md)
